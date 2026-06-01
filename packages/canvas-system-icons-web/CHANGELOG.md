@@ -1,5 +1,13 @@
 # @workday/canvas-system-icons-web
 
+## 4.0.5
+
+### Patch Changes
+
+- ### Components
+  - chore: Update action script ([@RayRedGoose](https://github.com/RayRedGoose))
+  - chore: Update package.json to handle release ([@RayRedGoose](https://github.com/RayRedGoose))
+
 ## 4.0.4
 
 ### Patch Changes
