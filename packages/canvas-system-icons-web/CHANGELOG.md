@@ -4,7 +4,10 @@
 
 ### Patch Changes
 
-- ### Components
+- ### Icons
+  - Fix class name for hourglass svg icon after renaming.
+
+- ### Infrastructure
   - chore: Update action script ([@RayRedGoose](https://github.com/RayRedGoose))
   - chore: Update package.json to handle release ([@RayRedGoose](https://github.com/RayRedGoose))
 
