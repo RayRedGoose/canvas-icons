@@ -1,5 +1,31 @@
 # @workday/canvas-system-icons-web
 
+## 5.2.0
+
+### Minor Changes
+
+- ### Infrastructure
+  - chore: Update to fix snyk issues ([#53](https://github.com/Workday/canvas-icons/pull/53))
+    ([@RayRedGoose](https://github.com/RayRedGoose))
+
+  ### System Icons
+  - feat: Add new system icons to support teams
+    ([#55](https://github.com/Workday/canvas-icons/pull/55))
+    ([@RayRedGoose](https://github.com/RayRedGoose)) New system icons has been added to the package:
+    , , , , , , , , , , , , . Updated style for icon.
+
+## 5.1.0
+
+### Minor Changes
+
+- ### Components
+  - chore: Update docs ([@RayRedGoose](https://github.com/RayRedGoose))
+
+  ### Icons
+  - feat: Add new system icons and update existing
+    ([#48](https://github.com/Workday/canvas-icons/pull/48))
+    ([@RayRedGoose](https://github.com/RayRedGoose))
+
 ## 5.0.3
 
 ### Patch Changes
